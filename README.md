@@ -217,41 +217,41 @@ Month | Assignee | Backup
 ## Links﻿
 
 [inline link](https://www.github.com/mrsandaru)
-[inline link with tooltip](https://www.jetbrains.com "JetBrains: Development Tools for Professionals and Teams")
+[inline link with tooltip](https://www.github.com/mrsandaru "Git_Dot: My Git and Dot File Repo")
 [reference link][1]
 
-[1]: https://www.jetbrains.com
+[1]: https://www.github.com/mrsandaru
 
 ## Autolinks
 
 Both of these URLs are parsed as links:
 
-<https://youtrack.jetbrains.com/issues>
-https://youtrack.jetbrains.com/issues
+<https://www.github.com/mrsandaru>
+https://www.github.com/mrsandaru
 
 Email addresses are also converted into "mailto" links when set in angle brackets:
 
-<webmaster@jetbrains.com>
+<mrsanadru@github.com>
 
 ## Images 
 
 Here's an image link to the Markdown logo on Wikipedia:
 
 Inline:
-![Markdown logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png "Markdown")
+![Markdown logo](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg "Linux")
 
 Reference style:
 ![Markdown logo][logo]
 
-[logo]: https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png "Markdown"
+[logo]: https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg "Linux"
 
 Markdown also supports images as links.
 Just wrap the entire image reference in brackets then add the target URL in parenthesis after the image reference.
 People use this syntax to insert a thumbnail image that links to a video on a video sharing platform.
 
-Here's a reference to the latest video promotion for YouTrack:
+But this is not a vedio:
 
-[![YouTrack — Maintain Order In A World of Chaos](https://img.youtube.com/vi/rhAunB7UQFQ/sddefault.jpg)](https://www.youtube.com/watch?v=rhAunB7UQFQ)
+[![YouTrack — Maintain Order In A World of Chaos](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg)](https://endeavouros.com/)
 
 ## Backslash Escapes﻿
 
